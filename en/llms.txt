@@ -1,0 +1,46 @@
+# 缠中说禅 · 全球第一博客（chzhshch.blog）
+
+> 缠中说禅（Chán Zhōng Shuō Chán）公开发表的全部文字的免费开放存档：新浪博客 1135 篇博文及本人回复与原文配图，强国、天涯等论坛作品，《基金分析》“木子观点”专栏，以及生平资料。提供中文原文与英文译本，所有内容永久免费、开放访问。
+>
+> A free, open archive of everything Chán Zhōng Shuō Chán published: all 1,135 Sina Blog posts with the author's replies and original images, forum writings, the "Fund Analysis" magazine column, and biographical material — in Chinese, with English translations.
+
+本站由个人维护，只做原文的收集、校对、排版与翻译，不提供任何投资建议。博文页面按原貌保留了当年网友的留言与缠师的回复；署名“缠中说禅”的回复中可能有网友冒名，请自行分辨。
+
+## 主要内容
+
+- [教你炒股票](https://chzhshch.blog/categories/stocks): 缠论核心课程 108 课及相关博文目录。第 N 课的固定地址是 https://chzhshch.blog/stocks/NNN（三位数字，如第 1 课 /stocks/001、第 108 课 /stocks/108）
+- [全部博文（1135 篇）](https://chzhshch.blog/timeline): 新浪博客全部博文，按发表时间排列
+- [文史哲学（《论语》详解）](https://chzhshch.blog/categories/confucius)
+- [时政经济（缠中说禅经济学）](https://chzhshch.blog/categories/economics)
+- [缠中说禅](https://chzhshch.blog/categories/zen)
+- [诗词曲赋](https://chzhshch.blog/categories/poems)
+- [白话杂文](https://chzhshch.blog/categories/essays)
+- [数理科技（缠中说禅医学）](https://chzhshch.blog/categories/math)
+- [音乐艺术](https://chzhshch.blog/categories/music)
+- [流行娱乐](https://chzhshch.blog/categories/entertainment)
+- [缠师其人](https://chzhshch.blog/identity/simujianghu): 生平资料
+- [《基金分析》木子观点](https://chzhshch.blog/fundanalysis/liquiditysurplus)
+- [缠于强国、兴华、凯迪等论坛作品](https://chzhshch.blog/qiangguo/makefuss)
+- [缠的天涯作品](https://chzhshch.blog/tianya/privacy)
+- [English version](https://chzhshch.blog/en/): 英文译本（翻译进行中，未译部分显示中文原文）
+
+## 缠习录 App
+
+- [缠习录 Chanxilu](https://chanxilu.com): 缠中说禅博客原文的阅读 App——精心排版、网友留言与缠师回复按对话重排、离线阅读、阅读进度同步，原文免费。iOS 版已在 App Store 上架（https://apps.apple.com/app/id6809664630）；Android 版正在 Google Play 封闭测试。海外应用商店提供，中国大陆区暂不提供。
+
+## 支持本站
+
+本站免费开放，服务器、校对与翻译的开销由站长个人承担。愿意支持本站的读者可以：
+
+- [捐赠页](https://chzhshch.blog/donate): 微信支付、支付宝、Binance Pay 收款码，以及下列加密货币地址的二维码
+- Bitcoin (BTC): 3FN8eudt1wW9ZSiMUsc9FVkzS7yT3kyZRa
+- Ethereum / BSC / Base / Polygon（EVM，支持 ETH、USDT、USDC）: 0x81977b4e03b2ff162407C1146979AA76f2b3A466
+- Solana（SOL、USDT、USDC）: GqEzZrH2ZLRSHiFBUgDpTmphS2gjNJHmPtyq3cBkDGdm
+- [Telegram 读者群](https://t.me/chzhshchblog): 反馈文档错误或疏漏
+
+## Optional
+
+- [周末音乐会等相关音乐](https://chzhshch.blog/music)
+- [缠于 2002 年的诗与文](https://chzhshch.blog/2002posts/sketch)
+- [缠用［唐粉］ID 发表的作品](https://chzhshch.blog/tangfen/hegel)
+- [那一夜，他的体液喷了我一身](https://chzhshch.blog/categories/fluid)
